@@ -1,0 +1,7 @@
+{
+	// ...existing settings...
+	"provider": "supabase",
+	"apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJmZnd5ZGt3cXZ1eHBwa21ld3RjIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDg5MTU0NjAsImV4cCI6MjA2NDQ5MTQ2MH0.vE1kLxN__C12j-yRhI-gk3Z6gOfJi6q157J5dGD2nUg", // utilize a chave "anon public" do seu dashboard Supabase
+	"projectUrl": "https://rffwydkwqvuxppkmewtc.supabase.co", // URL do seu projeto no Supabase
+	// ...existing settings...
+}
