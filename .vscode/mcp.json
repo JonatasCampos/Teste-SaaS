@@ -15,5 +15,13 @@
         "SUPABASE_ACCESS_TOKEN": "${input:supabase-access-token}"
       }
     }
+  },
+  {
+  "mcpServers": {
+    "supabase": {
+      "command": "cmd",
+      "args": ["/c", "npx", "-y", "@modelcontextprotocol/server-postgres", "rffwydkwqvuxppkmewtc"]
+    }
   }
+}
 }

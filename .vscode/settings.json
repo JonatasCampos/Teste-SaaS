@@ -1,0 +1,11 @@
+{
+    "chat.mcp.serverSampling": {
+        "Teste-SaaS/.vscode/mcp.json: supabase": {
+            "allowedModels": [
+                "github.copilot-chat/claude-3.5-sonnet",
+                "github.copilot-chat/gpt-4.1",
+                "github.copilot-chat/o3-mini"
+            ]
+        }
+    }
+}
